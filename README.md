@@ -42,13 +42,13 @@
 </div>
 
 ---
-## 🌱 Currently Learning
+## 🚀 Featured Projects
 
-- ☸️ **Kubernetes** — container orchestration & cluster management
-- 🏗️ **Terraform** — infrastructure as code
-- 🔁 **CI/CD Pipelines** — end-to-end automation with Jenkins
-- ☁️ **AWS Services** — EC2, S3, IAM, VPC
-
+| Project | Description | Tech |
+|---|---|---|
+| [End-to-End CI/CD Pipeline](https://github.com/ashray240-b/end-to-end-ci-cd-pipeline-java-app) | Automated CI/CD pipeline for a Java app using Jenkins, Docker & AWS | Jenkins · Docker · AWS · Java |
+| [Media Processor](https://github.com/ashray240-b/Ashray-s-media-processor) | Full-stack app to extract thumbnails, compress videos & pull audio from any URL including YouTube — powered by FastAPI, FFmpeg & Docker | Python · FastAPI · Docker · FFmpeg |
+| [Console E-Commerce](https://github.com/ashray240-b/console-ecommerce-java) | OOP-based shopping system with cart & billing | Java |
 ---
 
 ## 📫 Connect With Me
