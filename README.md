@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=200&section=header&text=Ashray%20Sambu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Dev%20%7C%20Blockchain%20%7C%20DevOps%20Learner&descAlignY=58&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=200&section=header&text=Ashray%20Sambu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer&descAlignY=58&descAlign=50)
 
 <div align='center'>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Final+Year+CSE+%40+GPREC;Java+Intern+%40+Global+Quest+Technologies;Blockchain+Developer;Learning+DevOps+%7C+Docker+%7C+AWS;Open+to+Full-Time+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=BTech+CSE+Graduate;Java+Intern+%40+Global+Quest+Technologies;Learning+DevOps+%7C+Docker+%7C+AWS;Open+to+Full-Time+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -37,8 +37,7 @@
 
 <div align='center'>
 
-<img src='https://github-readme-stats.vercel.app/api?username=ashray240-b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true' height='165'/>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ashray240-b&layout=compact&theme=tokyonight&hide_border=true' height='165'/>
+![GitHub Streak](https://streak-stats.demolab.com?user=ashray240-b&theme=tokyonight&hide_border=true)
 
 </div>
 
