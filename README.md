@@ -8,9 +8,7 @@
 
 ---
 
-## 👋 About Me
-
-> Blockchain developer and Java enthusiast leveling up in DevOps. I build things that actually work — from console e-commerce apps to media processors. Looking for a full-time role where I can ship real things.
+## 👋 BTech CSE graduate pivoting fully into DevOps. Passionate about automating infrastructure, building CI/CD pipelines, and managing cloud environments. Hands-on with Linux, Git, Docker, Jenkins, Ansible and AWS. Looking for a full-time DevOps role where I can build, automate and scale things.
 
 - 🎓 **Final Year CSE** @ GPREC, Bangalore
 - 💼 **Java Intern** @ Global Quest Technologies
@@ -26,13 +24,12 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </div>
 
 ---
@@ -53,14 +50,12 @@
 </div>
 
 ---
+## 🌱 Currently Learning
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Console E-Commerce](https://github.com/ashray240-b/console-ecommerce-java) | OOP-based shopping system with cart & billing | Java |
-| [Media Processor](https://github.com/ashray240-b/Ashray-s-media-processor) | Batch media processing tool | Python |
-| [Java Quiz App](https://github.com/ashray240-b/simple-quiz-using-conditional-statements-java-) | Conditional-statement quiz engine | Java |
+- ☸️ **Kubernetes** — container orchestration & cluster management
+- 🏗️ **Terraform** — infrastructure as code
+- 🔁 **CI/CD Pipelines** — end-to-end automation with Jenkins
+- ☁️ **AWS Services** — EC2, S3, IAM, VPC
 
 ---
 
