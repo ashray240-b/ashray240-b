@@ -1,44 +1,85 @@
-## Hi there
-<h1>Hi there, I'm Ashray Sambu 👋</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=200&section=header&text=Ashray%20Sambu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Dev%20%7C%20Blockchain%20%7C%20DevOps%20Learner&descAlignY=58&descAlign=50)
 
-> Final Year CSE @ GPREC | Java Intern @ Global Quest Technologies | Blockchain Developer | Learning DevOps: Linux · Git · Docker · AWS
+<div align='center'>
 
-**Open to full-time roles in 2026** 🚀
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Final+Year+CSE+%40+GPREC;Java+Intern+%40+Global+Quest+Technologies;Blockchain+Developer;Learning+DevOps+%7C+Docker+%7C+AWS;Open+to+Full-Time+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## About me
+## 👋 About Me
 
-Blockchain developer and Java enthusiast leveling up in DevOps. I build things that work — from console-based e-commerce apps to media processors. Currently learning Linux, Docker, and AWS while wrapping up my CSE degree.
+> Blockchain developer and Java enthusiast leveling up in DevOps. I build things that actually work — from console e-commerce apps to media processors. Looking for a full-time role where I can ship real things.
+
+- 🎓 **Final Year CSE** @ GPREC, Bangalore
+- 💼 **Java Intern** @ Global Quest Technologies
+- ⛓️ **Blockchain Developer** (Ethereum · Solidity · Web3)
+- 🐳 **Learning** Linux · Docker · AWS
+- 🚀 **Open to Full-Time 2026**
 
 ---
 
 ## 🛠️ Tech Stack
 
-```
-Languages:   Java · Python · Solidity
-Blockchain:  Ethereum · Smart Contracts · Web3
-DevOps:      Linux · Git · Docker · AWS (learning)
-Concepts:    OOP · REST APIs · DSA
-```
+<div align='center'>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ashray's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashray240-b&show_icons=true&theme=default&hide_border=true)
+<div align='center'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashray240-b&layout=compact&hide_border=true)
+<img src='https://github-readme-stats.vercel.app/api?username=ashray240-b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true' height='165'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ashray240-b&layout=compact&theme=tokyonight&hide_border=true' height='165'/>
+
+</div>
+
+<div align='center'>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ashray240-b&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 📫 Connect with me
+## 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fashraysambu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashraysambu)
+| Project | Description | Tech |
+|---|---|---|
+| [Console E-Commerce](https://github.com/ashray240-b/console-ecommerce-java) | OOP-based shopping system with cart & billing | Java |
+| [Media Processor](https://github.com/ashray240-b/Ashray-s-media-processor) | Batch media processing tool | Python |
+| [Java Quiz App](https://github.com/ashray240-b/simple-quiz-using-conditional-statements-java-) | Conditional-statement quiz engine | Java |
 
 ---
 
-⚡ Fun fact: I committed YOLO once. No regrets.
+## 📫 Connect With Me
+
+<div align='center'>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraysambu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashray240-b)
+
+</div>
+
+---
+
+<div align='center'>
+  <i>⚡ Fun fact: committed YOLO once. shipped it anyway. no regrets.</i>
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=1d9e75&height=120&section=footer)
 
 <!--
 **ashray240-b/ashray240-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
