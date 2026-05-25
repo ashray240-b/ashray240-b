@@ -41,12 +41,6 @@
 
 </div>
 
-<div align='center'>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ashray240-b&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 ## 🌱 Currently Learning
 
