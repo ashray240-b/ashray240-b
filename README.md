@@ -10,10 +10,9 @@
 
 ## 👋 BTech CSE graduate pivoting fully into DevOps. Passionate about automating infrastructure, building CI/CD pipelines, and managing cloud environments. Hands-on with Linux, Git, Docker, Jenkins, Ansible and AWS. Looking for a full-time DevOps role where I can build, automate and scale things.
 
-- 🎓 **Final Year CSE** @ GPREC, Bangalore
+- 🎓 **BTech CSE Graduate**
 - 💼 **Java Intern** @ Global Quest Technologies
-- ⛓️ **Blockchain Developer** (Ethereum · Solidity · Web3)
-- 🐳 **Learning** Linux · Docker · AWS
+- 🔄 **Transitioning into DevOps** (Linux · Git · Docker · AWS)
 - 🚀 **Open to Full-Time 2026**
 
 ---
